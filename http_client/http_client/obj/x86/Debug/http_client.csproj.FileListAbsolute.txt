@@ -1,0 +1,6 @@
+D:\c# projects\http_client\http_client\bin\Debug\http_client.exe
+D:\c# projects\http_client\http_client\bin\Debug\http_client.pdb
+D:\c# projects\http_client\http_client\obj\x86\Debug\http_client.exe
+D:\c# projects\http_client\http_client\obj\x86\Debug\http_client.pdb
+D:\c# projects\http_client\http_client\obj\x86\Debug\http_client.csprojResolveAssemblyReference.cache
+D:\c# projects\http_client\http_client\bin\Debug\Newtonsoft.Json.dll
